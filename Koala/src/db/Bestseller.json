@@ -1,0 +1,105 @@
+{
+    "products": [
+
+    {
+      "id": 1,
+      "name": "Koala Sofa Bed",
+      "image": "https://au.koala.com/cdn/shop/files/KSB_4G_FD_D_10.png?v=1756263087&width=1920",
+      "badge":" Upgraded",
+      "rating": 4.8,
+      "reviews": 2009,
+      "sizes": "2.5 Seater,  3 sizes available",
+      "price": 2350
+    },
+    {
+      "id": 2,
+      "name": "Koala Mattress",
+      "image": "https://au.koala.com/cdn/shop/files/AU_-_The_New_Koala_Mattress_-_Double_-_1_14cc7b35-b07f-4cd8-b9e8-6263a0327b84.webp?v=1728130488&width=3840",
+      "badge":" Most Awarded",
+      "rating": 4.8,
+      "reviews": 2488,
+      "sizes": "Queen,  5 sizes ",
+      "price": 890
+    },
+    {
+      "id": 3,
+      "name": "Koala Plus Mattress",
+      "image": "https://au.koala.com/cdn/shop/files/SEMattress_12_1_869df618-64d5-4f28-b432-ae4aa71c1bd5.jpg?v=1728227524&width=2730",
+      "badge":" Most Advanced",
+      "rating": 4.8,
+      "reviews": 949,
+      "sizes": "Queen,  6 sizes ",
+      "price": 1050
+    },
+    {
+      "id": 4,
+      "name": "Koala Luxe Mattress",
+      "image": "https://au.koala.com/cdn/shop/files/PlusMattress_4_1.jpg?v=1728227347&width=2730",
+      "badge":" Most Luxurious",
+      "rating": 4.8,
+      "reviews": 544,
+      "sizes": "Queen,  4 sizes ",
+      "price": 2090   
+    },
+    
+    {
+      "id": 5,
+      "name": "Byron Sofa Bed",
+      "image": "https://au.koala.com/cdn/shop/files/ByronSB_3rdG_Blush_Sunset_1.jpg?v=1739505454&width=1920",
+      "badge":" Upgraded",
+      "rating": 4.8,
+      "reviews": 2009,
+      "sizes": "3.5 Seater,  1 sizes available",
+      "price": 2350
+    },
+    {
+      "id": 6,
+      "name": "Wanda Sofa Bed",
+      "image": "https://au.koala.com/cdn/shop/files/Wanda_Paperbark_1.webp?v=1727277919&width=3840",
+      "badge":" Most Premium",
+      "rating": 4.8,
+      "reviews": 107,
+      "sizes": "3.5 Seater, 1  sizes available",
+      "price": 3150
+    },
+    {
+      "id": 7,
+      "name": "Koala SE Mattress",
+      "image": "https://au.koala.com/cdn/shop/files/PlusMattress_4_1_ca134414-61db-43f8-8835-51271efe47df.jpg?v=1728227443&width=2730",
+      "badge":"Most affordable Mattress",
+      "rating": 4.8,
+      "reviews": 696,
+      "sizes": "Queen,  5 sizes ",
+      "price": 650
+    },
+    {
+      "id": 8,
+      "name": "Kirribilli Bed Base",
+      "image": "https://au.koala.com/cdn/shop/files/KirribilliBedBase_Queen_6-6BLsSSNTfXHLiPoDZHyOQb.jpg?v=1725433212&width=1920",
+      "badge":" Awaerd Winning",
+      "rating": 4.8,
+      "reviews": 404,
+      "sizes": "Queen,  5 sizes ",
+      "price": 1150
+    },
+    {
+      "id": 9,
+      "name": "Bnangalow Modular Sofa",
+      "image": "https://au.koala.com/cdn/shop/files/Greenwattle_3seater_1-3OKzAwBFg0ThpVaEjbLgm8.jpg?v=1725431902&width=1920",
+      "badge":"Best Seller",
+      "rating": 4.7,
+      "reviews": 140,
+      "sizes": "3-Seater,  10 sizes ",
+      "price": 1800
+    },
+    { "id": 10,
+      "name": "Balmain Bed Base",
+      "image": "https://au.koala.com/cdn/shop/files/Balmain_Bed_Base_Queen_8.png?v=1730945681&width=1921",
+      "badge":"Best Seller",
+      "rating": 4.7,
+      "reviews": 582,
+      "sizes": "Queen,  5 sizes ",
+      "price": 750
+    }
+  ]
+}
